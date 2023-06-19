@@ -13,4 +13,5 @@ data/interim/rl/train/*
 data/interim/rl/test/*
 data/evaded/modified/*
 data/evaded/original/*
-Dataset/*
+data/Dataset/*
+.python-version
