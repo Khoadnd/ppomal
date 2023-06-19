@@ -1,0 +1,16 @@
+data/*.rar
+data/raw/blackbox/train/*
+data/raw/blackbox/test/*
+data/raw/rl/train/*
+data/raw/rl/test/*
+data/processed/blackbox/train/*
+data/processed/blackbox/test/*
+data/processed/rl/train/*
+data/processed/rl/test/*
+data/interim/blackbox/train/*
+data/interim/blackbox/test/*
+data/interim/rl/train/*
+data/interim/rl/test/*
+data/evaded/modified/*
+data/evaded/original/*
+Dataset/*
